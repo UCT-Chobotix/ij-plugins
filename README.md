@@ -8,7 +8,7 @@ You can import this project into your favorite IDE:
   * IDEA: File > Open Project... (select pom.xml)
 
 Each subdirectory contains an individual plugin. 
-You can also build each plugin in the corresponding subdirectory using command line:
+You can build each plugin using Maven support in your IDE or using command line in the corresponding subdirectory:
 
 `cd solvatochromic-shift`
 
