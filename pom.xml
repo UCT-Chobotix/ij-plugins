@@ -19,7 +19,6 @@
     <modules>
         <module>spheroids-and-lips</module>
         <module>solvatochromic-shift</module>
-        <module>test</module>
     </modules>
 
     <name>jh-plugins</name>
